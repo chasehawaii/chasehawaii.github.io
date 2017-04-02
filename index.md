@@ -8,8 +8,11 @@
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
 
 # About ChaseHawaii
+ChaseHawaii is a Meteor application designed specifically for the University of Hawaii community as a place to find relevant hikes, beach, restaurants and other adventures. The application is crowd source, providing ratings, comments and easy filtering to find adventures that are relevant and appealing to each user.
 
-The landing page will link to the login page (eventually), the contact us page, and the main item feed
+When you come to the site, you are greeted by the following landing page:
+
+The landing page will link to the login page, the contact us page, and the main item feed
 <img width="1452" alt="screen shot 2017-03-22 at 8 20 43 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234642/8e65c73c-0f3d-11e7-96b5-513a6d53bcd1.png">
 
 After a user is logged in they will go to their home page. This is the user's profile page where they can see the items they have submitted (add status later) and create a "bucket list" to save items they would like to do for later.
