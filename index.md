@@ -17,7 +17,11 @@ The landing page will link to the login page, the contact us page, and the about
 In the future we will add event handlers to each of the buttons. So that users can easily see where they will be redirected to.
 <img width="1452" alt="screen shot 2017-03-22 at 8 20 43 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234642/8e65c73c-0f3d-11e7-96b5-513a6d53bcd1.png">
 
-After a user is logged in they will be directed to their home page. This is the user's profile page where they can see the items they have submitted (add status later) and create a "bucket list" to save items they would like to do for later.
+After a user is logged in they will be directed to their home page. This is the user's profile page where they can see the items they have submitted and create a "bucket list" to save items they would like to do for later.
+
+This page will change in that the user will have the number of reviews they've submitted which will be made unique for hikes/restaurants/beaches, if a user hits a certain number of reviews for any category, or hits another criteria. Their profile will display a "rank". For example if they review 50 restaurants they will have the rank "Explorer" displayed on their profile.
+
+
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234663/a748707e-0f3d-11e7-843a-0db327e6b148.png">
 
 This is a create profile page for new users.
