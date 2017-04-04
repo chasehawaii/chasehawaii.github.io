@@ -25,16 +25,28 @@ This page will change in that the user will have the number of reviews they've s
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234663/a748707e-0f3d-11e7-843a-0db327e6b148.png">
 
 This is a create profile page for new users.
+
+The page will have an "Age" and "Class Standing" Drop down selections.
+
 <img width="1445" alt="screen shot 2017-03-22 at 8 22 52 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234691/bd11a84e-0f3d-11e7-91a1-e04584f39cee.png">
 
-Here is the main adventure item feed. It will eventually have filter functionality to filter by category, tags or number of likes.
+Here is the main adventure item feed.
+
+It will eventually have filter functionality to filter by category(difficulty, type of food, etc.), tags or number of likes.
+
 <img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234652/981b2f6a-0f3d-11e7-9393-97fa85a04e13.png">
 
 
-Each user can submit their own adventure, which will be reviewed by an admin before being added to avoid duplicate items. This one is for a hike, but an initial dropdown will decide what form the user gets to fill out. Some of the fields will be used to auto-create tags that can be filtered on in the main adventure feed page.
+Each user can submit their own adventure. This one is for a hike, but an initial dropdown will decide what form the user gets to fill out. Some of the fields will be used to auto-create tags that can be filtered on in the main adventure feed page. 
+
+Items created on this page will be reviewed by an admin before being added to avoid duplicate items and false information.
+
 <img width="1437" alt="screen shot 2017-03-22 at 8 21 35 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234656/9e1761f4-0f3d-11e7-8aa5-be82dd65511e.png">
 
-This is a page for a specific adventure item. This will provide full details and a place where users can comment.
+This is a page for a specific adventure item. This will provide full details and a place where users can comment
+
+The page will feature a rating system. Users comments can be "up/downvoted". 
+
 <img width="1432" alt="screen shot 2017-03-22 at 8 22 22 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234670/af46b6fa-0f3d-11e7-8b7a-8a3c2f8b7eb7.png">
 <img width="1197" alt="screen shot 2017-03-22 at 8 22 34 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234682/b666eb08-0f3d-11e7-92c6-467ee6fb2d7c.png">
 
