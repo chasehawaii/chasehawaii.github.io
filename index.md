@@ -55,3 +55,8 @@ About page
 
 Th admin page will  have a place where the admin can approve, deny or contact the submitter for each submission.
 <img width="1438" alt="screen shot 2017-03-22 at 8 23 01 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234695/c05a7b34-0f3d-11e7-892e-dca37bc6dc27.png">
+
+# Development history
+
+## Milestone 1:
+<img width="1102" alt="screen shot 2017-04-06 at 8 55 38 am" src="https://cloud.githubusercontent.com/assets/25087813/24770808/f420c792-1aa6-11e7-901a-736e5eb48e03.png">
