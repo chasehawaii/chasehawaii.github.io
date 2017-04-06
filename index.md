@@ -60,3 +60,5 @@ Th admin page will  have a place where the admin can approve, deny or contact th
 
 ## Milestone 1:
 <img width="1102" alt="screen shot 2017-04-06 at 8 55 38 am" src="https://cloud.githubusercontent.com/assets/25087813/24770808/f420c792-1aa6-11e7-901a-736e5eb48e03.png">
+
+Milestone 1 was implemented as [ChaseHawaii GitHub Milestone M1](https://github.com/chasehawaii/chasehawaii/milestone/1)
