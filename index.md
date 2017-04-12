@@ -58,7 +58,28 @@ Th admin page will  have a place where the admin can approve, deny or contact th
 
 # Development history
 
-## Milestone 1:
-<img width="1102" alt="screen shot 2017-04-06 at 8 55 38 am" src="https://cloud.githubusercontent.com/assets/25087813/24770808/f420c792-1aa6-11e7-901a-736e5eb48e03.png">
+## Milestone 1: Mockup development
 
-Milestone 1 was implemented as [ChaseHawaii GitHub Milestone M1](https://github.com/chasehawaii/chasehawaii/milestone/1)
+This milestone started on December 6, 2016 and ended on January 31, 2017.
+
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
+
+Mockups for the following four pages were implemented during M1:
+
+<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983926/0398dbe0-1f86-11e7-880e-973fa016c163.png">
+<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983929/08067da4-1f86-11e7-9d43-1814c0b073b8.png">
+<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983936/12713702-1f86-11e7-8479-a2580cc63829.png">
+<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983937/146bfae2-1f86-11e7-943f-cf3bcd94b981.png">
+
+Milestone 1 was implemented as [BowFolio GitHub Milestone M1](https://github.com/bowfolios/bowfolios/milestone/1)::
+
+![](images/m1-milestone.png)
+
+
+Milestone 1 consisted of five issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/bowfolios/bowfolios/projects/1):
+
+![](images/m1-project.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/m1-branch-graph.png
