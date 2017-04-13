@@ -83,3 +83,10 @@ Milestone 1 consisted of thirteen issues, and progress was managed via the [Chas
 Each issue was implemented in its own branch, and merged into master when completed:
 
 <img src = "https://cloud.githubusercontent.com/assets/21227204/24984427/0c33baba-1f89-11e7-8460-ae184e208c8b.png">
+
+## Milestone 2: Data Model Development
+
+This milestone started on April 11, 2017 and is expected to end on April 25, 2017.
+Current issues can be viewed via the [ChaseHawaii GitHub Project M2](https://github.com/chasehawaii/chasehawaii/projects/2)
+
+The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the ChaseHawaii application. We are implementing the data model as a set of Javascript classes. The BaseCollection class provides common fields and operations. Then we have three classes (HikeCollection, BeachCollection, and the RestaurantCollection) classes that inherit from BaseCollection and provide the persistent data structures useful for ChaseHawaii. We are also implementing a UserCollection to support user accounts and user profiles.
