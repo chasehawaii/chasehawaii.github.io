@@ -66,7 +66,7 @@ The goal of Milestone 1 was to create a mock-up of static HTML pages in the syst
 
 Mockups for the following four pages were implemented during M1:
 
-<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983926/0398dbe0-1f86-11e7-880e-973fa016c163.png">
+<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/25001077/6f95b896-1fdf-11e7-90fb-ff6d33b9a6cf.png">
 <img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983929/08067da4-1f86-11e7-9d43-1814c0b073b8.png">
 <img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983936/12713702-1f86-11e7-8479-a2580cc63829.png">
 <img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983937/146bfae2-1f86-11e7-943f-cf3bcd94b981.png">
