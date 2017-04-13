@@ -60,9 +60,9 @@ Th admin page will  have a place where the admin can approve, deny or contact th
 
 ## Milestone 1: Mockup development
 
-This milestone started on December 6, 2016 and ended on January 31, 2017.
+This milestone started on April 6, 2017 and ended on April 12, 2017.
 
-The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
+The goal of Milestone 1 was to create a mock-up of static HTML pages in the system. The mockup was developed as a Meteor app. In other words each page was a template that used FlowRouter to implement routing between pages. More pages to be added in the future as the need arises.
 
 Mockups for the following four pages were implemented during M1:
 
@@ -82,4 +82,4 @@ Milestone 1 consisted of thirteen issues, and progress was managed via the [BowF
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-![](images/m1-branch-graph.png
+<img src = "https://cloud.githubusercontent.com/assets/21227204/24984427/0c33baba-1f89-11e7-8460-ae184e208c8b.png">
