@@ -16,26 +16,26 @@ When you come to the site, you are greeted by the following landing page:
 The landing page will link to the login page, the contact us page, and the about us feed. 
 
 In the future we will add event handlers to each of the buttons. So that users can easily see where they will be redirected to.
-<img width="1452" alt="screen shot 2017-03-22 at 8 20 43 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234642/8e65c73c-0f3d-11e7-96b5-513a6d53bcd1.png">
+<img width="1452" alt="screen shot 2017-03-22 at 8 20 43 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364955/89367daa-2901-11e7-8388-75e2d24ab8bb.png">
 
 After a user is logged in they will be directed to their home page. This is the user's profile page where they can see the items they have submitted and create a "bucket list" to save items they would like to do for later.
 
 This page will change in that the user will have the number of reviews they've submitted which will be made unique for hikes/restaurants/beaches, if a user hits a certain number of reviews for any category, or hits another criteria. Their profile will display a "rank". For example if they review 50 restaurants they will have the rank "Explorer" displayed on their profile.
 
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234663/a748707e-0f3d-11e7-843a-0db327e6b148.png">
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364953/8917af1a-2901-11e7-9b97-8d2bd37aebc0.png">
 
 This is a create profile page for new users.
 
 The page will have an "Age" and "Class Standing" Drop down selections.
 
-<img width="1445" alt="screen shot 2017-03-22 at 8 22 52 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234691/bd11a84e-0f3d-11e7-91a1-e04584f39cee.png">
+<img width="1445" alt="screen shot 2017-03-22 at 8 22 52 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364952/8916a3d6-2901-11e7-99aa-ed0fe9086630.png">
 
 Here is the main adventure item feed.
 
 It will eventually have filter functionality to filter by category(difficulty, type of food, etc.), tags or number of likes.
 
-<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234652/981b2f6a-0f3d-11e7-9393-97fa85a04e13.png">
+<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364951/891644a4-2901-11e7-9523-281a3a17db97.png">
 
 
 Each user can submit their own adventure. This one is for a hike, but an initial dropdown will decide what form the user gets to fill out. Some of the fields will be used to auto-create tags that can be filtered on in the main adventure feed page. 
