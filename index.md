@@ -17,35 +17,25 @@ When you come to the site, you are greeted by the following landing page:
 
 The landing page will link to the following login page:
 
-<img width="1437" alt="screen shot 2017-03-22 at 8 21 35 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365462/924bfe12-2904-11e7-9a5f-7260662bb0cc.png">
+<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364951/891644a4-2901-11e7-9523-281a3a17db97.png">
 
-Once a user registers through the CAS authentication system, if they have a chase hawaii account they will be directed to the main item feeed. Otherwise they will be sent to the following create profile page.
+Once a user registers through the CAS authentication system, if they have a chase hawaii account they will be directed to the main item feeed. Otherwise they will be sent to the following create profile page:
 
-After a user is logged in they will be directed to their home page. This is the user's profile page where they can see the items they have submitted and create a "bucket list" to save items they would like to do for later.
+<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="
+https://cloud.githubusercontent.com/assets/21227204/25364954/891c450c-2901-11e7-9df3-10457d55cca1.png">
+
+After a user has created a profile they will be able to see the items they have submitted and create a "bucket list" to save items they would like to do for later.
 
 This page will change in that the user will have the number of reviews they've submitted which will be made unique for hikes/restaurants/beaches, if a user hits a certain number of reviews for any category, or hits another criteria. Their profile will display a "rank". For example if they review 50 restaurants they will have the rank "Explorer" displayed on their profile.
 
-
+Here is the main item feed where users can filter through the different tags to find the adventure best suited for them: 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364953/8917af1a-2901-11e7-9b97-8d2bd37aebc0.png">
 
-This is a create profile page for new users.
 
-The page will have an "Age" and "Class Standing" Drop down selections.
+Each user can submit their own adventure. The items will then be put up for approval from admins in order to avoid duplicate entries. Here is an example page for a beach adventure, displaying tags, location, the name of the beach, and a few comments:
 
-<img width="1445" alt="screen shot 2017-03-22 at 8 22 52 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364952/8916a3d6-2901-11e7-99aa-ed0fe9086630.png">
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365462/924bfe12-2904-11e7-9a5f-7260662bb0cc.png">
 
-Here is the main adventure item feed.
-
-It will eventually have filter functionality to filter by category(difficulty, type of food, etc.), tags or number of likes.
-
-<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364951/891644a4-2901-11e7-9523-281a3a17db97.png">
-
-
-Each user can submit their own adventure. This one is for a hike, but an initial dropdown will decide what form the user gets to fill out. Some of the fields will be used to auto-create tags that can be filtered on in the main adventure feed page. 
-
-Items created on this page will be reviewed by an admin before being added to avoid duplicate items and false information.
-
-This is a page for a specific adventure item. This will provide full details and a place where users can comment
 
 The admin page will  have a place where the admin can approve, deny or contact the submitter for each submission.
 <img width="1438" alt="screen shot 2017-03-22 at 8 23 01 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234695/c05a7b34-0f3d-11e7-892e-dca37bc6dc27.png">
