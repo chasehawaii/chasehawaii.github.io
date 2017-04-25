@@ -32,7 +32,11 @@ Here is the main item feed where users can filter through the different tags to 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364953/8917af1a-2901-11e7-9b97-8d2bd37aebc0.png">
 
 
-Each user can submit their own adventure. The items will then be put up for approval from admins in order to avoid duplicate entries. Here is an example page for a beach adventure, displaying tags, location, the name of the beach, and a few comments:
+Each user can submit their own adventure. The items will then be put up for approval from admins in order to avoid duplicate entries. Here is an example page for a beach adventure, displaying tags, location, the name of the beach, and a few comments.
+
+Here are examples of each type of page.
+
+Beach Page:
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365462/924bfe12-2904-11e7-9a5f-7260662bb0cc.png">
 
