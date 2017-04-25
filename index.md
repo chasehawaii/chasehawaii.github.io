@@ -46,13 +46,9 @@ Items created on this page will be reviewed by an admin before being added to av
 
 This is a page for a specific adventure item. This will provide full details and a place where users can comment
 
-The page will feature a rating system. Users comments can be "up/downvoted". 
 
-<img width="1432" alt="screen shot 2017-03-22 at 8 22 22 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234670/af46b6fa-0f3d-11e7-8b7a-8a3c2f8b7eb7.png">
-<img width="1197" alt="screen shot 2017-03-22 at 8 22 34 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234682/b666eb08-0f3d-11e7-92c6-467ee6fb2d7c.png">
+<img width="1437" alt="screen shot 2017-03-22 at 8 21 35 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365462/924bfe12-2904-11e7-9a5f-7260662bb0cc.png">
 
-About page
-<img width="1439" alt="screen shot 2017-03-22 at 8 22 43 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234688/ba926fe0-0f3d-11e7-810b-8e50e73e537d.png">
 
 Th admin page will  have a place where the admin can approve, deny or contact the submitter for each submission.
 <img width="1438" alt="screen shot 2017-03-22 at 8 23 01 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234695/c05a7b34-0f3d-11e7-892e-dca37bc6dc27.png">
@@ -67,10 +63,10 @@ The goal of Milestone 1 was to create a mock-up of static HTML pages in the syst
 
 Mockups for the following four pages were implemented during M1:
 
-<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/25001077/6f95b896-1fdf-11e7-90fb-ff6d33b9a6cf.png">
-<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983929/08067da4-1f86-11e7-9d43-1814c0b073b8.png">
-<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983936/12713702-1f86-11e7-8479-a2580cc63829.png">
-<img width="200px" src="https://cloud.githubusercontent.com/assets/21227204/24983937/146bfae2-1f86-11e7-943f-cf3bcd94b981.png">
+<img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25001077/6f95b896-1fdf-11e7-90fb-ff6d33b9a6cf.png">
+<img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/24983929/08067da4-1f86-11e7-9d43-1814c0b073b8.png">
+<img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/24983936/12713702-1f86-11e7-8479-a2580cc63829.png">
+<img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/24983937/146bfae2-1f86-11e7-943f-cf3bcd94b981.png">
 
 Milestone 1 was implemented as [ChaseHawaii GitHub Milestone M1](https://github.com/chasehawaii/chasehawaii/projects/1)::
 
