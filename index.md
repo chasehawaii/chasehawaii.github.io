@@ -36,10 +36,18 @@ Each user can submit their own adventure. The items will then be put up for appr
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365462/924bfe12-2904-11e7-9a5f-7260662bb0cc.png">
 
+Hike Page: 
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365782/d9175a9c-2906-11e7-86db-b8aaa656e9fd.png">
+
+
+Restaurant Page:
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365766/b97d5a2e-2906-11e7-960b-c547e332ee40.png">
+
 
 The admin page will  have a place where the admin can approve, deny or contact the submitter for each submission.
-<img width="1438" alt="screen shot 2017-03-22 at 8 23 01 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234695/c05a7b34-0f3d-11e7-892e-dca37bc6dc27.png">
-
+<img width="1438" alt="screen shot 2017-03-22 at 8 23 01 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365782/d9175a9c-2906-11e7-86db-b8aaa656e9fd.png)
 # Development history
 
 ## Milestone 1: Mockup development
