@@ -22,7 +22,7 @@ The landing page will link to the following login page:
 Once a user registers through the CAS authentication system, if they have a chase hawaii account they will be directed to the main item feeed. Otherwise they will be sent to the following create profile page:
 
 <img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="
-https://cloud.githubusercontent.com/assets/21227204/25364954/891c450c-2901-11e7-9df3-10457d55cca1.png">
+https://cloud.githubusercontent.com/assets/21227204/25365883/8728c148-2907-11e7-85ea-329907e082f2.png">
 
 After a user has created a profile they will be able to see the items they have submitted and create a "bucket list" to save items they would like to do for later.
 
