@@ -21,8 +21,7 @@ The landing page will link to the following login page:
 
 Once a user registers through the CAS authentication system, if they have a chase hawaii account they will be directed to the main item feeed. Otherwise they will be sent to the following create profile page:
 
-<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="
-https://cloud.githubusercontent.com/assets/21227204/25365883/8728c148-2907-11e7-85ea-329907e082f2.png">
+<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365883/8728c148-2907-11e7-85ea-329907e082f2.png">
 
 After a user has created a profile they will be able to see the items they have submitted and create a "bucket list" to save items they would like to do for later.
 
@@ -50,8 +49,6 @@ Restaurant Page:
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365766/b97d5a2e-2906-11e7-960b-c547e332ee40.png">
 
 
-The admin page will  have a place where the admin can approve, deny or contact the submitter for each submission.
-<img width="1438" alt="screen shot 2017-03-22 at 8 23 01 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365782/d9175a9c-2906-11e7-86db-b8aaa656e9fd.png)
 # Development history
 
 ## Milestone 1: Mockup development
