@@ -13,10 +13,13 @@ ChaseHawaii is a Meteor application designed specifically for the University of 
 
 When you come to the site, you are greeted by the following landing page:
 
-The landing page will link to the login page, the contact us page, and the about us feed. 
-
-In the future we will add event handlers to each of the buttons. So that users can easily see where they will be redirected to.
 <img width="1452" alt="screen shot 2017-03-22 at 8 20 43 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364955/89367daa-2901-11e7-8388-75e2d24ab8bb.png">
+
+The landing page will link to the following login page:
+
+<img width="1437" alt="screen shot 2017-03-22 at 8 21 35 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365462/924bfe12-2904-11e7-9a5f-7260662bb0cc.png">
+
+Once a user registers through the CAS authentication system, if they have a chase hawaii account they will be directed to the main item feeed. Otherwise they will be sent to the following create profile page.
 
 After a user is logged in they will be directed to their home page. This is the user's profile page where they can see the items they have submitted and create a "bucket list" to save items they would like to do for later.
 
@@ -42,15 +45,9 @@ Each user can submit their own adventure. This one is for a hike, but an initial
 
 Items created on this page will be reviewed by an admin before being added to avoid duplicate items and false information.
 
-<img width="1437" alt="screen shot 2017-03-22 at 8 21 35 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234656/9e1761f4-0f3d-11e7-8aa5-be82dd65511e.png">
-
 This is a page for a specific adventure item. This will provide full details and a place where users can comment
 
-
-<img width="1437" alt="screen shot 2017-03-22 at 8 21 35 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365462/924bfe12-2904-11e7-9a5f-7260662bb0cc.png">
-
-
-Th admin page will  have a place where the admin can approve, deny or contact the submitter for each submission.
+The admin page will  have a place where the admin can approve, deny or contact the submitter for each submission.
 <img width="1438" alt="screen shot 2017-03-22 at 8 23 01 pm" src="https://cloud.githubusercontent.com/assets/25087813/24234695/c05a7b34-0f3d-11e7-892e-dca37bc6dc27.png">
 
 # Development history
