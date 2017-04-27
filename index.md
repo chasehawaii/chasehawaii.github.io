@@ -3,6 +3,8 @@
 
 * [About ChaseHawaii](#about-chasehawaii)
 * [Installation](#installation)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Goals](#goals)
 * [Development history](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
@@ -10,6 +12,8 @@
 
 # About ChaseHawaii
 ChaseHawaii is a Meteor application designed specifically for the University of Hawaii community as a place to find relevant hikes, beach, restaurants and other adventures. The application is crowd sourced to provide ratings, comments, and easy to use filtering that finds adventures that are relevant and appealing to each user.
+
+## User Guide
 
 When you come to the site, you are greeted by the following landing page:
 
@@ -76,6 +80,27 @@ Milestone 1 consisted of thirteen issues, and progress was managed via the [Chas
 Each issue was implemented in its own branch, and merged into master when completed:
 
 <img src = "https://cloud.githubusercontent.com/assets/21227204/24984427/0c33baba-1f89-11e7-8460-ae184e208c8b.png">
+
+## Developer Guide
+
+First, install Meteor.
+
+Second, download a copy of ChaseHawaii, or clone it using git.
+
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+The application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. From the login follow the <a href = "#user-guide">user guide</a> for a detailed summary on the flow of the web app.
 
 ## Milestone 2: Data Model Development
 
