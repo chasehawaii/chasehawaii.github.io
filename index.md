@@ -135,10 +135,10 @@ The goal of Milestone 2 is to implement the data model: the underlying set of Mo
 
 Milestone 2 was implemented as [ChaseHawaii GitHub Milestone M2](https://github.com/chasehawaii/chasehawaii/milestone/2)::
 
-(https://github.com/chasehawaii/chasehawaii/projects/2)
 <img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25502196/67829c7a-2b31-11e7-8a35-e6a6da60289d.png">
 
-Milestone 2 consisted of 11 issues and was managed via [ChaseHawaii GitHub Milestone M2]:
+Milestone 2 consisted of 11 issues and was managed via [ChaseHawaii GitHub Milestone M2](https://github.com/chasehawaii/chasehawaii/projects/2)
+
 <img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25502197/67b8a284-2b31-11e7-8fbb-3431ba02be3f.png">
 
 Each issue was created into it's own branch then merged to master: 
