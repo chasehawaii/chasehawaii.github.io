@@ -93,7 +93,7 @@ Third, cd into the app/ directory and install libraries with:
 $ meteor npm install
 ```
 
-To enable the CAS System, put CAS settings in Meteor.settings (for exemple using METEOR_SETTINGS env or --settings) like so:
+Third, enable the CAS System, put CAS settings in Meteor.settings (for exemple using METEOR_SETTINGS env or --settings) like so:
 
 ```
 "cas": {
@@ -111,8 +111,14 @@ To enable the CAS System, put CAS settings in Meteor.settings (for exemple using
 
 ```
 
+Then, to start authentication, you have to call the following method from the client (for example in a click handler) :
 
-Fourth, run the system with:
+```
+Meteor.loginWithCas([callback]);
+It must open a popup containing you CAS login from. The popup will be close immediately if you are already logged with your CAS server.
+```
+
+Finally, run the system with:
 
 ```
 $ meteor npm run start
