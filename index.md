@@ -119,6 +119,11 @@ Then, to start authentication, you have to call the following method from the cl
 Meteor.loginWithCas([callback]);
 It must open a popup containing you CAS login from. The popup will be close immediately if you are already logged with your CAS server.
 ```
+Next, the system uses the moment.js package for the date and time throughout the application. Run the following to install the package:
+
+```
+$ meteor add mrt:moment
+```
 
 Finally, run the system with:
 
