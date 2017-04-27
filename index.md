@@ -141,7 +141,7 @@ Milestone 2 was implemented as [ChaseHawaii GitHub Milestone M2](https://github.
 
 Milestone 2 consisted of 11 issues and was managed via [ChaseHawaii GitHub Milestone M2](https://github.com/chasehawaii/chasehawaii/projects/2)
 
-<img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25502197/67b8a284-2b31-11e7-8fbb-3431ba02be3f.png">
+<img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25503517/6e4119a6-2b36-11e7-9bbd-2ec55996ed51.png">
 
 Each issue was created into it's own branch then merged to master: 
 <img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25502195/677a9f84-2b31-11e7-8569-408e52a08912.png">
