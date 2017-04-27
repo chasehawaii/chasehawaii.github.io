@@ -93,6 +93,24 @@ Third, cd into the app/ directory and install libraries with:
 $ meteor npm install
 ```
 
+To enable the CAS System, put CAS settings in Meteor.settings (for exemple using METEOR_SETTINGS env or --settings) like so:
+
+```
+"cas": {
+    "baseUrl": "https://sso.univ-pau.fr/cas/",
+    "autoClose": true
+},
+"public": {
+    "cas": {
+        "loginUrl": "https://sso.univ-pau.fr/cas/login",
+        "serviceParam": "service",
+        "popupWidth": 810,
+        "popupHeight": 610
+    }
+}
+
+```
+
 
 Fourth, run the system with:
 
