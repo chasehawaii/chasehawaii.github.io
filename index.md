@@ -131,7 +131,9 @@ The application will appear at [http://localhost:3000](http://localhost:3000). I
 This milestone started on April 11, 2017 and ended on April 27, 2017.
 Current issues can be viewed via the [ChaseHawaii GitHub Project M2](https://github.com/chasehawaii/chasehawaii/projects/2)
 
-The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the ChaseHawaii application. We are implementing the data model as a set of Javascript classes. The BaseCollection class provides common fields and operations. Then we have three classes (HikeCollection, BeachCollection, and the RestaurantCollection) classes that inherit from BaseCollection and provide the persistent data structures useful for ChaseHawaii. We are also implementing a UserCollection to support user accounts and user profiles.
+The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the ChaseHawaii application. We are implementing the data model as a set of Meteor Collections. Four seperate collections were created to handle each aspect of our web application. For the items there were three individual collections created, beaches, hikes, and restaurants. The collections were seperated as they have mostly different attributes. Each collection corresponds to different items on the items feed page. The profiles collection was created in order to manage the different profiles upon CAS login, each profile contains basic information about each user such as their username, first name, last name, social media info, etc.
+
+Milestone 2 was implemented as [ChaseHawaii GitHub Milestone M2](https://github.com/chasehawaii/chasehawaii/milestone/2)::
 
 Issues:
 <img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25502196/67829c7a-2b31-11e7-8a35-e6a6da60289d.png">
