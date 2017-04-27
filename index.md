@@ -13,6 +13,8 @@
 # About ChaseHawaii
 ChaseHawaii is a Meteor application designed specifically for the University of Hawaii community as a place to find relevant hikes, beach, restaurants and other adventures. The application is crowd sourced to provide ratings, comments, and easy to use filtering that finds adventures that are relevant and appealing to each user.
 
+View the current working version of our web app here: <a href ="http://chasehawaii.meteorapp.com/item-feed">Chase Hawaii</a>
+
 ## User Guide
 
 When you come to the site, you are greeted by the following landing page:
