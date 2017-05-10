@@ -119,7 +119,7 @@ Third, cd into the app/ directory and install libraries with:
 $ meteor npm install
 ```
 
-Third, enable the CAS System, put CAS settings in Meteor.settings (for exemple using METEOR_SETTINGS env or --settings) like so:
+Next, enable the CAS System, put CAS settings in Meteor.settings (for exemple using METEOR_SETTINGS env or --settings) like so:
 
 ```
 "cas": {
@@ -210,9 +210,9 @@ Each issue was created into it's own branch then merged to master:
 This milestone started on April 27, 2017 and ended on May 9th, 2017.
 Current issues can be viewed via the [ChaseHawaii GitHub Project M3](https://github.com/chasehawaii/chasehawaii/projects/3)
 
-The goal of milestone 3 was to improve the functionality of our webpage, create an admin page to ensure a better user experience, create a working login system with the CAS system, and to validate the data within our collecitons. From milestone two significant functional improvements were made. 
+The goal of milestone 3 was to improve the functionality of our webpage, create an admin page to ensure a better user experience, create a working login system with the CAS system, and to validate the data within our collections. From milestone two significant functional improvements were made. 
 
-For the profile pages users are now able to update their pictures, which will be displayed when they comment on different items. By clicking on another users profile picture they will be redirected to that users public profile page. The funcitonality of the like and bucket list functions were improved so that items would correctly be added to a users profile page. Users can also display what items they have completed, and which items they have liked.
+For the profile pages users are now able to update their pictures, which will be displayed when they comment on different items. By clicking on another users profile picture they will be redirected to that users public profile page. The functionality of the like and bucket list functions were improved so that items would correctly be added to a users profile page. Users can also display what items they have completed, and which items they have liked.
 
 The Administrator's page has also been implemented to help moderate the content that users post. The admin has three abilities: approval of an item, denial of an item, and the deletion of an item. In order to keep content in check, when a user creates an item, it is placed in a "pending" state, in which it will not be displayed to other users. Only an admin can view the item's info on the admin page. At that point, he/she can decide if it is ready to display by "approving" it, or "deny" it to indicate to the user that it is an unsatisfactory item. A user has the right to request the deletion of an item, which the admin can see on their page and follow through with the act of deletion. 
 
