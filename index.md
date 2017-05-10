@@ -217,7 +217,7 @@ Milestone 3 was implemented as [ChaseHawaii GitHub Project M3](https://github.co
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25883309/42b47d1a-34e5-11e7-9f6f-459ab24fb0c9.png">
 
 
-Milestone 2 consisted of 20 issues and was managed via [ChaseHawaii GitHub Milestone M2](https://github.com/chasehawaii/chasehawaii/projects/3)
+Milestone 3 consisted of 19 issues and was managed via [ChaseHawaii GitHub Milestone M3](https://github.com/chasehawaii/chasehawaii/projects/3)
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25883306/406e1796-34e5-11e7-84e9-13cd0c7ff75e.png">
 
