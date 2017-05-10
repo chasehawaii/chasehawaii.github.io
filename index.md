@@ -204,7 +204,7 @@ Milestone 2 consisted of 20 issues and was managed via [ChaseHawaii GitHub Miles
 Each issue was created into it's own branch then merged to master: 
 <img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25502195/677a9f84-2b31-11e7-8569-408e52a08912.png">
 
-## Milestone 3: Authentication, Administration and Data Validation
+## Milestone 3: Authentication Administration and Data Validation
 
 This milestone started on April 27, 2017 and will end on May 9, 2017.
 Current issues can be viewed via the [ChaseHawaii GitHub Project M3](https://github.com/chasehawaii/chasehawaii/projects/3)
