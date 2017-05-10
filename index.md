@@ -26,24 +26,23 @@ When you come to the site, you are greeted by the following landing page:
 The landing page will link to the following login page:
 
 
-<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880241/f1b9f7c2-34d1-11e7-99a4-fd2ced850d4b.png">
+
+![log_in](https://cloud.githubusercontent.com/assets/25087813/25884711/0f71dff0-34f0-11e7-8ce3-29aa52b83db0.png)
 
 Once a user registers through the CAS authentication system, if they have a ChaseHawaii account they will be directed to the main item feed. Otherwise they will be sent to the following create profile page:
 
 
-<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880304/537579b4-34d2-11e7-87d2-dd1735a89b05.png">
+![create_profile](https://cloud.githubusercontent.com/assets/25087813/25884714/10bd34c2-34f0-11e7-864d-3232ea6d5c53.png)
 
 
 After a user has created a profile they will be taken to their profile page. Initially the page is mostly blank with the exception of what was added to their profile:
 
-
-<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880259/17521cee-34d2-11e7-9279-c1fb478ad9ce.png">
+![profile](https://cloud.githubusercontent.com/assets/25087813/25884716/12648eec-34f0-11e7-87a4-da7bb3f49016.png)
 
 
 Once the user has created a profile they are free to browse through the items that have already been added and approved by other users. They can view the entire list by clicking the "Adventure Feed" Tab in the header. Once they click the tab they will be taken to the main item feed. The feed can be filtered to find specific items to best suit the type of adventure they are looking for: 
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880416/dea4f42e-34d2-11e7-877e-e45755c65deb.png">
-
+![adventure_feed](https://cloud.githubusercontent.com/assets/25087813/25884719/13ba0916-34f0-11e7-898d-9fe570b5f19a.png)
 
 Each user can also submit their own adventure. Here are the create pages. Each create page can be reached by clicking the "Create Adventure" Tab in the header. Once there the user is able to create an adventure by clicking on the appropriate tab. Here is the "Create Beach" Page:
 
