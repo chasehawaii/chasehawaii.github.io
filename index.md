@@ -25,7 +25,7 @@ The landing page will link to the following login page:
 
 <img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880241/f1b9f7c2-34d1-11e7-99a4-fd2ced850d4b.png">
 
-Once a user registers through the CAS authentication system, if they have a chase hawaii account they will be directed to the main item feeed. Otherwise they will be sent to the following create profile page:
+Once a user registers through the CAS authentication system, if they have a ChaseHawaii account they will be directed to the main item feed. Otherwise they will be sent to the following create profile page:
 
 <img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880304/537579b4-34d2-11e7-87d2-dd1735a89b05.png">
 
@@ -59,10 +59,12 @@ If the user finds an adventure they want to do, they can add it to their "bucket
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880983/30625b14-34d6-11e7-984d-26e1e92c8ae7.png">
 
+Each item can be expanded for a more detailed view, user can leave comments and click on other user's profiles to view other users profile pages.
 
-Beach Page:
+Here is an example of a the detailed Beach Page:
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365462/924bfe12-2904-11e7-9a5f-7260662bb0cc.png">
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25881122/e8fc6c32-34d6-11e7-9fe9-814f8a9483f5.png">
+
 
 Hike Page: 
 
@@ -72,6 +74,27 @@ Hike Page:
 Restaurant Page:
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365766/b97d5a2e-2906-11e7-960b-c547e332ee40.png">
+
+And the Public Profile page:
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25881210/5b689afc-34d7-11e7-8a4e-4d5674a16bf9.png">
+
+Several other pages were added to the site that can be accessed through the footer. If users want to know more about the site and they can view it on the About page:
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880064/e0763f94-34d0-11e7-8050-7d0a026b6c0d.png">
+
+If a user wants to contact any of the admins they can find the necessary info through the contact us link in the footer, here is a view of the contact page: 
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880072/f1bf9e4e-34d0-11e7-97ac-d373d191bff5.png">
+
+And finally if a user enters an incorrect url they will be taken to our 404 page: 
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="
+https://cloud.githubusercontent.com/assets/21227204/25880067/e4755bb6-34d0-11e7-88bb-4f38a66fe52c.png">
+
+
+
+
 
 ## Developer Guide
 
