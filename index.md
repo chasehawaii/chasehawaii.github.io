@@ -47,63 +47,60 @@ Once the user has created a profile they are free to browse through the items th
 Each user can also submit their own adventure. Here are the create pages. Each create page can be reached by clicking the "Create Adventure" Tab in the header. Once there the user is able to create an adventure by clicking on the appropriate tab. Here is the "Create Beach" Page:
 
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880634/4e94d7da-34d4-11e7-8ce5-b49e9bc0cf8c.png">
+
+![beach](https://cloud.githubusercontent.com/assets/25087813/25884825/ac05f8e2-34f0-11e7-883c-af558a7cf8c8.png)
+
 
 The Create Hike Page:
 
-
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880660/76d121cc-34d4-11e7-8298-084fe41c73c1.png">
+![hike](https://cloud.githubusercontent.com/assets/25087813/25884826/ace12c96-34f0-11e7-8afb-fd93e892b885.png)
 
 And the Create Restaurant Page:
 
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880660/76d121cc-34d4-11e7-8298-084fe41c73c1.png">
+![restaurant](https://cloud.githubusercontent.com/assets/25087813/25884828/ae5efca6-34f0-11e7-8a61-e288b3c65fe0.png)
 
 
 Once an item is created it will be sent to the following Admin Page for approval: 
 
-
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880060/d3b35508-34d0-11e7-8764-af74d232000d.png">
+![admin](https://cloud.githubusercontent.com/assets/25087813/25884829/b03f1aec-34f0-11e7-900e-cda36ddeb18a.png)
 
 Since the application's content is crowdsourced, it was imperative to include administrative abilities to ensure that all the content featured is appropriate, not offensive, and not a duplicate entry of an already existing item. Users also have the right to request that the items they make be deleted, which will then show up on the admin's page, where the admin can make the final step in deleting the item. Currently, the only accounts with administrative abilites are those who have developed the application.
 
 If the user finds an adventure they want to do, they can add it to their "bucket list" by clicking on the button. Once an item is on their bucket list it will be added to their profile page, where they can mark it as completed once they finish their adventure:
 
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880983/30625b14-34d6-11e7-984d-26e1e92c8ae7.png">
+![profile2](https://cloud.githubusercontent.com/assets/25087813/25884832/b182a77a-34f0-11e7-8111-9facafefe6cf.png)
 
 Each item can be expanded for a more detailed view, user can leave comments and click on other user's profiles to view other users profile pages.
 
 Here is an example of a the detailed Beach Page:
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25881122/e8fc6c32-34d6-11e7-9fe9-814f8a9483f5.png">
 
+![sandys](https://cloud.githubusercontent.com/assets/25087813/25884835/b337255a-34f0-11e7-9ccc-4df3e4a93b58.png)
 
 Hike Page: 
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365782/d9175a9c-2906-11e7-86db-b8aaa656e9fd.png">
-
+![hike_item](https://cloud.githubusercontent.com/assets/25087813/25884836/b4c8d788-34f0-11e7-95f0-ed35f30ddfaa.png)
 
 Restaurant Page:
 
+![restaurant_item](https://cloud.githubusercontent.com/assets/25087813/25884839/b6468c7c-34f0-11e7-95f1-ffdf438e3011.png)
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365766/b97d5a2e-2906-11e7-960b-c547e332ee40.png">
 
 And the Public Profile page:
 
-
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25881210/5b689afc-34d7-11e7-8a4e-4d5674a16bf9.png">
+![public_profile](https://cloud.githubusercontent.com/assets/25087813/25884841/b82068d8-34f0-11e7-95f3-f7682196159b.png)
 
 Several other pages were added to the site that can be accessed through the footer. If users want to know more about the site and they can view it on the About page:
 
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880064/e0763f94-34d0-11e7-8050-7d0a026b6c0d.png">
+![about](https://cloud.githubusercontent.com/assets/25087813/25884842/b9599f62-34f0-11e7-8473-8bd971819edd.png)
 
 If a user wants to contact any of the admins they can find the necessary info through the contact us link in the footer, here is a view of the contact page: 
 
 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880072/f1bf9e4e-34d0-11e7-97ac-d373d191bff5.png">
-
+![admin_contact](https://cloud.githubusercontent.com/assets/25087813/25884847/baccadd0-34f0-11e7-877b-78e4df1cf28d.png)
 
 
 ## Developer Guide
