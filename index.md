@@ -106,7 +106,7 @@ And finally if a user enters an incorrect url they will be taken to our 404 page
 
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="
-https://cloud.githubusercontent.com/assets/21227204/25880067/e4755bb6-34d0-11e7-88bb-4f38a66fe52c.png">
+https://cloud.githubusercontent.com/assets/21227204/25881370/3c535778-34d8-11e7-8477-b07d4d1bb314.png">
 
 
 
