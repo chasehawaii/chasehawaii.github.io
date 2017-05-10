@@ -38,9 +38,27 @@ Once the user has created a profile they are free to browse through the items th
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880416/dea4f42e-34d2-11e7-877e-e45755c65deb.png">
 
 
-Each user can also submit their own adventure. The items will then be put up for approval from admins in order to avoid duplicate entries. Here are the create pages. Each page is based off of 
+Each user can also submit their own adventure. Here are the create pages. Each create page can be reached by clicking the "Create Adventure" Tab in the header. Once there the user is able to create an adventure by clicking on the appropriate tab. Here is the "Create Beach" Page:
 
-Here are examples of each type of page.
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880634/4e94d7da-34d4-11e7-8ce5-b49e9bc0cf8c.png">
+
+The Create Hike Page:
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880660/76d121cc-34d4-11e7-8298-084fe41c73c1.png">
+
+And the Create Restaurant Page:
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880660/76d121cc-34d4-11e7-8298-084fe41c73c1.png">
+
+
+Once an item is created it will be sent to the following Admin Page for approval: 
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880060/d3b35508-34d0-11e7-8764-af74d232000d.png">
+
+If the user finds an adventure they want to do, they can add it to their "bucket list" by clicking on the button. Once an item is on their bucket list it will be added to their profile page, where they can mark it as completed once they finish their adventure:
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880983/30625b14-34d6-11e7-984d-26e1e92c8ae7.png">
+
 
 Beach Page:
 
