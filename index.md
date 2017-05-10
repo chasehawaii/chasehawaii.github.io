@@ -19,25 +19,26 @@ View the current working version of our web app here: <a href ="http://chasehawa
 
 When you come to the site, you are greeted by the following landing page:
 
-<img width="1452" alt="screen shot 2017-03-22 at 8 20 43 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364955/89367daa-2901-11e7-8388-75e2d24ab8bb.png">
+<img width="1452" alt="screen shot 2017-03-22 at 8 20 43 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880120/38c56792-34d1-11e7-8570-0870b5e2b696.png">
 
 The landing page will link to the following login page:
 
-<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364951/891644a4-2901-11e7-9523-281a3a17db97.png">
+<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880241/f1b9f7c2-34d1-11e7-99a4-fd2ced850d4b.png">
 
 Once a user registers through the CAS authentication system, if they have a chase hawaii account they will be directed to the main item feeed. Otherwise they will be sent to the following create profile page:
 
-<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25365883/8728c148-2907-11e7-85ea-329907e082f2.png">
+<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880304/537579b4-34d2-11e7-87d2-dd1735a89b05.png">
 
-After a user has created a profile they will be able to see the items they have submitted and create a "bucket list" to save items they would like to do for later.
+After a user has created a profile they will be taken to their profile page. Initially the page is mostly blank with the exception of what was added to their profile:
 
-This page will change in that the user will have the number of reviews they've submitted which will be made unique for hikes/restaurants/beaches, if a user hits a certain number of reviews for any category, or hits another criteria. Their profile will display a "rank". For example if they review 50 restaurants they will have the rank "Explorer" displayed on their profile.
+<img width="1446" alt="screen shot 2017-03-22 at 8 21 22 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880259/17521cee-34d2-11e7-9279-c1fb478ad9ce.png">
 
-Here is the main item feed where users can filter through the different tags to find the adventure best suited for them: 
-<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25364953/8917af1a-2901-11e7-9b97-8d2bd37aebc0.png">
+Once the user has created a profile they are free to browse through the items that have already been added and approved by other users. They can view the entire list by clicking the "Adventure Feed" Tab in the header. Once they click the tab they will be taken to the main item feed. The feed can be filtered to find specific items to best suit the type of adventure they are looking for: 
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880416/dea4f42e-34d2-11e7-877e-e45755c65deb.png">
 
 
-Each user can submit their own adventure. The items will then be put up for approval from admins in order to avoid duplicate entries. Here is an example page for a beach adventure, displaying tags, location, the name of the beach, and a few comments.
+Each user can also submit their own adventure. The items will then be put up for approval from admins in order to avoid duplicate entries. Here are the create pages. Each page is based off of 
 
 Here are examples of each type of page.
 
