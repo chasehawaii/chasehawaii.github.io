@@ -239,12 +239,7 @@ To test our web application five members of the UH community were recruited from
 
 Nathan Nahina, Junior, Computer Science:
 
--Nice landing page I like the layout and simplicity
--Maybe after logging in, can have something pop up or change on the landing page to direct you where to go next
--Honolulu tag spelled wrong
--could not add beach
--filter search was cool
--like the aesthetics, just need more functionality
+Nice landing page I like the layout and simplicity, maybe after logging in, can have something pop up or change on the landing page to direct you where to go next, Honolulu tag spelled wrong, could not add beach, filter search was cool, like the aesthetics, just need more functionality
 
 Michael Serai, Junior, Computer Science:
 
@@ -257,34 +252,11 @@ Cool website and great idea.  I really like the layout and captivating pictures.
 Kalani Sanidad, Junior, Computer Science:
 
 CONS:
-the first thing i noticed was that it didn't scale to mobile, but it should be fine.
-
-when i open it up on browser, i tried scaling it every which way. when i did, the "getting started" didn't move with the scaled page. for that, that is a minor fix.
-
-when you submit, there was no indication of success or failed. 
-
-login didn't work(yes i have a dev environment login)
-
-add comment doesn't work
-
-i am guessing nothing works when you aren't logged in. 
-
-on the adventure feed maybe add search text box for searching a specific place
-
-on the create adventure page maybe start off with a default form. and have the buttons highlighted
+The first thing i noticed was that it didn't scale to mobile, but it should be fine. When i open it up on browser, i tried scaling it every which way. when i did, the "getting started" didn't move with the scaled page. for that, that is a minor fix. When you submit, there was no indication of success or failed. Login didn't work(yes i have a dev environment login)
+Add comment doesn't work, I am guessing nothing works when you aren't logged in. On the adventure feed maybe add search text box for searching a specific place. On the create adventure page maybe start off with a default form. and have the buttons highlighted.
 
 PRO:
-for one, it made it easy for me to find the login and logout. 
-
-there isn't much there so for users that don't know much about technology(and i know a couple of surfers would like something like this) and have it easy for them. 
-
-there is a checklist for tourist to do adventurous stuff since that is something newly weds would like to do.... or i would think so.
-
-i don't know what is supposed to be on the profile page, but i am guessing that it looks well.
-
-if everything works, it would give it 4.8/5 
-
-but for now 3/5 because login couldn't work and once that works, it should go up.  
+For one, it made it easy for me to find the login and logout. There isn't much there so for users that don't know much about technology(and i know a couple of surfers would like something like this) and have it easy for them. There is a checklist for tourist to do adventurous stuff since that is something newly weds would like to do.... or i would think so. Idon't know what is supposed to be on the profile page, but i am guessing that it looks well. If everything works, it would give it 4.8/5,  but for now 3/5 because login couldn't work and once that works, it should go up.  
 
 Ted Jacoby, Senior, Biochemistry:
 
