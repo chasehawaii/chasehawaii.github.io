@@ -5,7 +5,6 @@
 * [Installation](#installation)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
-* [Goals](#goals)
 * [Development history](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
@@ -206,9 +205,27 @@ Each issue was created into it's own branch then merged to master:
 
 ## Milestone 3: Authentication Administration and Data Validation
 
-This milestone started on April 27, 2017 and will end on May 9, 2017.
+This milestone started on April 27, 2017 and ended on May 9th, 2017.
 Current issues can be viewed via the [ChaseHawaii GitHub Project M3](https://github.com/chasehawaii/chasehawaii/projects/3)
 
-During this Milestone, the team will implement error checks to validate data, ensure authentication throughout the application and fine tune functionality. 
+The goal of milestone 3 was to improve the functionality of our webpage, create an admin page to ensure a better user experience, create a working login system with the CAS system, and to validate the data within our collecitons. From milestone two significant functional improvements were made. 
+
+For the profile pages users are now able to update their pictures, which will be displayed when they comment on different items. By clicking on another users profile picture they will be redirected to that users public profile page. The funcitonality of the like and bucket list functions were improved so that items would correctly be added to a users profile page. Users can also display what items they have completed, and which items they have liked.
+
+Milestone 3 was implemented as [ChaseHawaii GitHub Project M3](https://github.com/chasehawaii/chasehawaii/milestone/3)::
+
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25883309/42b47d1a-34e5-11e7-9f6f-459ab24fb0c9.png">
+
+Milestone 2 consisted of 20 issues and was managed via [ChaseHawaii GitHub Milestone M2](https://github.com/chasehawaii/chasehawaii/projects/3)
+
+<img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25883306/406e1796-34e5-11e7-84e9-13cd0c7ff75e.png">
+
+Each issue was created into it's own branch then merged to master: 
+<img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25883304/3de6bbf4-34e5-11e7-8172-2145ed450405.png">
+
+
+
+
 
 
