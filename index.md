@@ -66,6 +66,8 @@ Once an item is created it will be sent to the following Admin Page for approval
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880060/d3b35508-34d0-11e7-8764-af74d232000d.png">
 
+Since the application's content is crowdsourced, it was imperative to include administrative abilities to ensure that all the content featured is appropriate, not offensive, and not a duplicate entry of an already existing item. Users also have the right to request that the items they make be deleted, which will then show up on the admin's page, where the admin can make the final step in deleting the item. Currently, the only accounts with administrative abilites are those who have developed the application.
+
 If the user finds an adventure they want to do, they can add it to their "bucket list" by clicking on the button. Once an item is on their bucket list it will be added to their profile page, where they can mark it as completed once they finish their adventure:
 
 
@@ -211,6 +213,8 @@ Current issues can be viewed via the [ChaseHawaii GitHub Project M3](https://git
 The goal of milestone 3 was to improve the functionality of our webpage, create an admin page to ensure a better user experience, create a working login system with the CAS system, and to validate the data within our collecitons. From milestone two significant functional improvements were made. 
 
 For the profile pages users are now able to update their pictures, which will be displayed when they comment on different items. By clicking on another users profile picture they will be redirected to that users public profile page. The funcitonality of the like and bucket list functions were improved so that items would correctly be added to a users profile page. Users can also display what items they have completed, and which items they have liked.
+
+The Administrator's page has also been implemented to help moderate the content that users post. The admin has three abilities: approval of an item, denial of an item, and the deletion of an item. In order to keep content in check, when a user creates an item, it is placed in a "pending" state, in which it will not be displayed to other users. Only an admin can view the item's info on the admin page. At that point, he/she can decide if it is ready to display by "approving" it, or "deny" it to indicate to the user that it is an unsatisfactory item. A user has the right to request the deletion of an item, which the admin can see on their page and follow through with the act of deletion. 
 
 Milestone 3 was implemented as [ChaseHawaii GitHub Project M3](https://github.com/chasehawaii/chasehawaii/milestone/3)::
 
