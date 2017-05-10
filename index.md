@@ -8,7 +8,7 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
-  * [Milestone 3: Milestone 3: Authentication, Administration and Data Validation](#milestone-3-authentication-administartion-and-data-validation)
+  * [Milestone 3: Authentication, Administration and Data Validation](#milestone-3-authentication-administartion-and-data-validation)
 * [Initial User Study](#initial-user-study)
   
 # About ChaseHawaii
