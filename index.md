@@ -217,12 +217,39 @@ Milestone 3 was implemented as [ChaseHawaii GitHub Project M3](https://github.co
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25883309/42b47d1a-34e5-11e7-9f6f-459ab24fb0c9.png">
 
+
 Milestone 2 consisted of 20 issues and was managed via [ChaseHawaii GitHub Milestone M2](https://github.com/chasehawaii/chasehawaii/projects/3)
 
 <img width="1423" alt="screen shot 2017-03-22 at 8 22 06 pm" src="https://cloud.githubusercontent.com/assets/21227204/25883306/406e1796-34e5-11e7-84e9-13cd0c7ff75e.png">
 
+
 Each issue was created into it's own branch then merged to master: 
+
+
 <img width="1437px" src="https://cloud.githubusercontent.com/assets/21227204/25883304/3de6bbf4-34e5-11e7-8172-2145ed450405.png">
+
+
+## Initial User Study
+
+To test our web application five members of the UH community were recruited from various majors and class standings. The feedback was collected via email after the users had tested our website. 
+
+Nathan Nahina, Junior, Computer Science:
+
+-Nice landing page I like the layout and simplicity
+-Maybe after logging in, can have something pop up or change on the landing page to direct you where to go next
+-Honolulu tag spelled wrong
+-could not add beach
+-filter search was cool
+-like the aesthetics, just need more functionality
+
+Michael Serai, Junior, Computer Science:
+
+Asthetically the main page is very pleasing, not overbearing. When we add items to the list, maybe add a gps feature for directions. Not sure if you are able to site other sources. This way, we wouldn't have to add our own pictures for restaurants. Otherwise I like the add feature. The adventure feed is nice, maybe categorize them in columns for easier viewing. Otherwise really solid, I like.
+
+Aviv Suan, Graduate Student, Natural Resource and Environmental Management:
+
+Cool website and great idea.  I really like the layout and captivating pictures.  The login and logout button could be highlighted when hovering over the button to indicate an interactive button.  
+
 
 
 
