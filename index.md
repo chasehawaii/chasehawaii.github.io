@@ -21,7 +21,7 @@ View the current working version of our web app here: <a href ="http://chasehawa
 When you come to the site, you are greeted by the following landing page:
 
 
-<img width="1452" alt="screen shot 2017-03-22 at 8 20 43 pm" src="https://cloud.githubusercontent.com/assets/21227204/25880120/38c56792-34d1-11e7-8570-0870b5e2b696.png">
+![landing_page](https://cloud.githubusercontent.com/assets/25087813/25884633/6d1e41e4-34ef-11e7-9a29-4883620f65ca.png)
 
 The landing page will link to the following login page:
 
